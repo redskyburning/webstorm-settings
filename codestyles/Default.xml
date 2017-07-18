@@ -1,14 +1,6 @@
 <code_scheme name="Default">
-  <CssCodeStyleSettings>
-    <option name="VALUE_ALIGNMENT" value="1" />
-  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
-  <codeStyleSettings language="SCSS">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
