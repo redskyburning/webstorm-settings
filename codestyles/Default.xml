@@ -1,6 +1,10 @@
 <code_scheme name="Default">
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
