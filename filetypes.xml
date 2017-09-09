@@ -8,6 +8,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
