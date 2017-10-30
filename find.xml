@@ -20,8 +20,8 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
