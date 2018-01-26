@@ -14,6 +14,7 @@
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="Twig" />
       <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
