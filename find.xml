@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.controller.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -27,6 +28,7 @@
       <mask>*.vue</mask>
       <mask>*.component.js</mask>
       <mask>*.html</mask>
+      <mask>*.controller.js</mask>
     </recentFileMasks>
   </component>
 </application>
