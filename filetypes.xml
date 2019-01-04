@@ -1,20 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="target.*.js" type="EJS" />
       <mapping pattern=".jsbeautifyrc" type="JSON" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".rc" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".babelignore" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <mapping ext="njk" type="Twig" />
-      <mapping pattern="target.*.js" type="EJS" />
     </extensionMap>
   </component>
 </application>
