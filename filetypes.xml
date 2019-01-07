@@ -17,6 +17,7 @@
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
+      <mapping ext="conf" type="nginx file type" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
