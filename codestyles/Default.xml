@@ -1,6 +1,9 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="1000" />
-  <JSCodeStyleSettings>
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </HCL-Terraform>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
