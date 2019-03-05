@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping pattern="default.config" type="nginx file type" />
     </extensionMap>
   </component>
