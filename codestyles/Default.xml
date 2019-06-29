@@ -3,10 +3,16 @@
   <HCL-Terraform>
     <option name="PROPERTY_ALIGNMENT" value="2" />
   </HCL-Terraform>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="IMPORTS_WRAP" value="2" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
@@ -17,6 +23,12 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="IMPORTS_WRAP" value="2" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
