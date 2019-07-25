@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".lightrc" type="JSON" />
       <mapping ext="tmpl" type="Jade" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
