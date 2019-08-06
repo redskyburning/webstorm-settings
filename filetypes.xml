@@ -5,13 +5,13 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".lightrc" type="JSON" />
       <mapping ext="tmpl" type="Jade" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
